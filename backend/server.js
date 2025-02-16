@@ -21,7 +21,7 @@ app.use('/api/contact', contactRoutes);
 
 // Home Route
 app.get('/', (req, res) => {
-  res.send('Heegan Technology Backend');
+  res.send('BrandSpark Technology Backend');
 });
 
 // Start Server
